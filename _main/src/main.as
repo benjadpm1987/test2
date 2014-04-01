@@ -15,7 +15,7 @@ package
 			var _Login:Login = new Login();
 			this.addChild(_Login);
 			_Login.addEventListener(MyEventos.MOSTRAR_OCULTAR,Ocultar);
-			
+			//hola
 			
 		}
 		
