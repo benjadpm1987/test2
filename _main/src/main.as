@@ -16,6 +16,7 @@ package
 			this.addChild(_Login);
 			_Login.addEventListener(MyEventos.MOSTRAR_OCULTAR,Ocultar);
 			//hola
+			//otro
 			
 		}
 		
